@@ -8,7 +8,22 @@
 `内嵌内容`   
 ![image]()  
 
-[^1]: This is my first footnote
+```java runnable
+  // { autofold
+public class Main {
+
+public static void main(String[] args) {
+// }
+
+String message = "Hello World!";
+System.out.println(message);
+
+//{ autofold
+}
+
+}
+//}
+```
  
 * 列表1
 * 列表2
