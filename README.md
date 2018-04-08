@@ -4,15 +4,16 @@
 *斜体*  
 ~~删除线~~  
 ==高亮==  
+换行符 : 一行结束时输入两个空格  
 [百度连接](http://baidu.com)  
-`Inline Code`  
-![image](http://baidu.com)  
-  
-* list1
-* list2
-* list3
+`内嵌内容`   
+![image](http://baidu.com)  
+画水平线--------  
+* 列表1
+* 列表2
+* 列表3
 
-> quote
+> 引用内容
 
 # H1
 ## H2
