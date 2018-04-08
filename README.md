@@ -7,6 +7,6 @@
 `Inline Code`
 ![image](http://baidu.com)
 
-*list1
-*list2
-*list3
+* list1
+* list2
+* list3
