@@ -6,3 +6,7 @@
 [百度连接](http://baidu.com)
 `Inline Code`
 ![image](http://baidu.com)
+
+*list1
+*list2
+*list3
